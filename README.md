@@ -117,8 +117,8 @@ O algoritmo garante:
 - **Gerenciamento de contexto** (`with`)
 - **Manipulação de arquivos** (leitura e escrita)
 - **Estruturas de controle** (loops, condicionais)
-- **Métodos de string** (.split(), .join())
-- **Métodos de lista** (.remove())
+- **Métodos de string** (`.split()`, `.join()`)
+- **Métodos de lista** (`.remove()`)
 
 ## 🎓 Aprendizados
 
